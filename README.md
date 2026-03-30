@@ -30,12 +30,12 @@ Task 5 – Cybercrime Awareness
 Created a UPI / Online Payment Fraud Case Study and a prevention checklist to promote safe online practices.
 
 Repository Structure
-report/ → Contains the final project report
-task-1-presentation/ → Infographic
-task-2-portfolio/ → Profile screenshots
-task-3-platforms/ → Coding + Google Form
-task-4-email-etiquette/ → Emails + checklist
-task-5-cybercrime/ → Case study + prevention checklist
+ 1. task-1-presentation/ → Infographic
+2. task-2-portfolio/ → Profile screenshots
+3. task-3-platforms/ → Coding + Google Form
+4. task-4-email-etiquette/ → Emails + checklist
+5. task-5-cybercrime/ → Case study + prevention checklist
+6. report/ → Contains the final project report
 
 Conclusion
 This project helped me understand that digital literacy is not just about using tools, but also about using them responsibly, safely, and professionally in real-world situations.
